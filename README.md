@@ -4,6 +4,8 @@
 
 CSEShell is a simple, custom shell for Unix-based systems, designed to provide an interface for executing system programs. This project includes a basic shell implementation, a set of system programs (`backup`, `dcheck`, `dspawn`, `find`, `ld`, `ldr`, `sys`), and some test files.
 
+This shell was designed and implmented as part of SUTD course 50.005 Computer System Engineering programming assignment.
+
 ## Directory Structure
 
 The project is organized as follows:
